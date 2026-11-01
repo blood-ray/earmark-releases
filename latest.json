@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.4",
-    "notes":  "Fix: overlapping watch-folder scans no longer show duplicate-import errors. Watch folders (incl. network shares) are re-scanned every 15 minutes.",
-    "pub_date":  "2026-11-01T13:14:25Z",
+    "version":  "0.1.5",
+    "notes":  "Fix: files without an audio track (e.g. WhatsApp videos) no longer leave processing steps stuck as queued.",
+    "pub_date":  "2026-11-01T13:21:54Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNWg5VGEreityMU5MdkgrMkY2MnI4V3RBVCtHZWtUdlFHaU9Wd0VDeTlsTVlOem55Tm5wSFV5cGJlcStVNUxGUXdUQUt6NGhuc01sMi9maFlvU1lQSFF3UEQ2ZnRJOGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM4ODY1CWZpbGU6RWFybWFya18wLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQKeXA2Ry82bllTeUVFdWNQcHR4NUVaQUJNVEJPSjMybHZaQ0pESUNCUnBVZ210UnlRY1M3ZkROekVubS90dndQNlZneWJsemMrV1BxNE90M2RuRkd0QXc9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/blood-ray/earmark-releases/main/Earmark_0.1.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNWg5VGEreityMUZTV3o2bjdIMlhlZU1VNHJLVEZ4OGhTbkpFZVlQZ1drU0N3TnI1bm5vcStYdG9FSUkxNExPZXVlNmRuV3ZkRjhESVZSV0tRN05hdFl4ZGpoR2hIMUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM5MzE0CWZpbGU6RWFybWFya18wLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUKdlhYUktOWWRxRmE3WWlqOXpaS1grRUlpTmdOaFY4RDl6Y01LdDNYVGVRSjVRdDdlRGw4UFFwOVpEbUVVSkhLek5qcktyMUF4ay9VczRBcXNWdEpQRHc9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/blood-ray/earmark-releases/main/Earmark_0.1.5_x64-setup.exe"
                                          }
                   }
 }
