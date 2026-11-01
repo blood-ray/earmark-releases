@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.3",
-    "notes":  "First public release: GPU transcription, speakers and voice recognition, hybrid search, AI summaries, signed auto-updates.",
-    "pub_date":  "2026-11-01T12:47:14Z",
+    "version":  "0.1.4",
+    "notes":  "Fix: overlapping watch-folder scans no longer show duplicate-import errors. Watch folders (incl. network shares) are re-scanned every 15 minutes.",
+    "pub_date":  "2026-11-01T13:14:25Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNWg5VGEreityMUR0V2lYalQwZWg4K2xieExnSmVNbGQwZ3pWUnFSY2hRTnY2OXlmaWs4Q2xQMWEwQlB6WnhXS1RITDRTQkNGYlVNNzJRMkVoTmF6YlovTFVialJPTncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM3MjMzCWZpbGU6RWFybWFya18wLjEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMKUzRBSVo5eHFBQ2w0MWlGRW15bGtMRjY4eWtOQUFyeUN0NkczbHRBTmg5aStyVFl0dVBYUUpaN0craDdaWllyaWk2eGR2R3hTa1BWSkJJL2RQWnl2Q2c9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/blood-ray/earmark-releases/main/Earmark_0.1.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNWg5VGEreityMU5MdkgrMkY2MnI4V3RBVCtHZWtUdlFHaU9Wd0VDeTlsTVlOem55Tm5wSFV5cGJlcStVNUxGUXdUQUt6NGhuc01sMi9maFlvU1lQSFF3UEQ2ZnRJOGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM4ODY1CWZpbGU6RWFybWFya18wLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQKeXA2Ry82bllTeUVFdWNQcHR4NUVaQUJNVEJPSjMybHZaQ0pESUNCUnBVZ210UnlRY1M3ZkROekVubS90dndQNlZneWJsemMrV1BxNE90M2RuRkd0QXc9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/blood-ray/earmark-releases/main/Earmark_0.1.4_x64-setup.exe"
                                          }
                   }
 }
