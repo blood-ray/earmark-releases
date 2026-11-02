@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.5",
-    "notes":  "Fix: files without an audio track (e.g. WhatsApp videos) no longer leave processing steps stuck as queued.",
-    "pub_date":  "2026-11-01T13:21:54Z",
+    "version":  "0.1.6",
+    "notes":  "Much faster on large libraries: GPU memory no longer spills into system RAM, transcription runs before summaries, short clips skip AI summaries.",
+    "pub_date":  "2026-11-02T01:26:55Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNWg5VGEreityMUZTV3o2bjdIMlhlZU1VNHJLVEZ4OGhTbkpFZVlQZ1drU0N3TnI1bm5vcStYdG9FSUkxNExPZXVlNmRuV3ZkRjhESVZSV0tRN05hdFl4ZGpoR2hIMUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM5MzE0CWZpbGU6RWFybWFya18wLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUKdlhYUktOWWRxRmE3WWlqOXpaS1grRUlpTmdOaFY4RDl6Y01LdDNYVGVRSjVRdDdlRGw4UFFwOVpEbUVVSkhLek5qcktyMUF4ay9VczRBcXNWdEpQRHc9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/blood-ray/earmark-releases/main/Earmark_0.1.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNWg5VGEreityMURjYlU4VGdUQkpCdUo0dnhFb29UZ0FvQTVHM2RmWm90bTdRVGNZNWlpNnBWejZQb05CM1dHZm10YkNubkd5dTRSbDlYd0duM1d3Q3lGODU0QmM1UlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTgyODE1CWZpbGU6RWFybWFya18wLjEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjYKWUJLSEorMWRsV25HSHJFVklxcS9aL1VmRHhmbTJldmZPSE5wd045QzVZbFh6TkRMUC8rdG8xYlFqRExqSWhSclVzR0NPcUJqaGY0YUkveXBoZGxBQ3c9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/blood-ray/earmark-releases/main/Earmark_0.1.6_x64-setup.exe"
                                          }
                   }
 }
