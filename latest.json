@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.6",
-    "notes":  "Much faster on large libraries: GPU memory no longer spills into system RAM, transcription runs before summaries, short clips skip AI summaries.",
-    "pub_date":  "2026-11-02T01:26:55Z",
+    "version":  "0.1.7",
+    "notes":  "Faster AI summaries (batched on the GPU) and automatic retry of jobs that hit a temporary memory shortage.",
+    "pub_date":  "2026-11-02T02:43:54Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNWg5VGEreityMURjYlU4VGdUQkpCdUo0dnhFb29UZ0FvQTVHM2RmWm90bTdRVGNZNWlpNnBWejZQb05CM1dHZm10YkNubkd5dTRSbDlYd0duM1d3Q3lGODU0QmM1UlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTgyODE1CWZpbGU6RWFybWFya18wLjEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjYKWUJLSEorMWRsV25HSHJFVklxcS9aL1VmRHhmbTJldmZPSE5wd045QzVZbFh6TkRMUC8rdG8xYlFqRExqSWhSclVzR0NPcUJqaGY0YUkveXBoZGxBQ3c9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/blood-ray/earmark-releases/main/Earmark_0.1.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNWg5VGEreityMUJuUHl3aW9xNnpQYzA1bVpCeXVkMlBtRHc5R3FKbnN3NUdQYTZveXdkc3M3Z0xpTWhYU3YzcjlOSWxnc0V6d3I5ZG1BTitXYmxXUUtmMGJzdzd5cUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTg3NDMzCWZpbGU6RWFybWFya18wLjEuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjcKc0trYmEwdmhsMDZHcS80d3duNFJmN09XZU5vVURoWXFZL085RDgyYnBQYS83ZnJMbHFvOENhL0NiVGtSeXhpQ0t5TTh6RlVXMzNaL3FxQUZKQTVtQ1E9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/blood-ray/earmark-releases/main/Earmark_0.1.7_x64-setup.exe"
                                          }
                   }
 }
